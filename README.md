@@ -1,0 +1,2 @@
+# Campnetwork
+Auto Faucet Campnetwork
